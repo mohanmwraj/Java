@@ -6,6 +6,20 @@ import java.util.List;
 
 public class filteringMatching {
 
+    public static List<Employee> getEmployees(){
+        List<Employee> employees = new ArrayList<>();
+
+        employees.add(new Employee("Employee1", 5000000, "IT", 25));
+        employees.add(new Employee("Employee2", 5000000, "HR", 25));
+        employees.add(new Employee("Employee3", 5000000, "DEV", 25));
+        employees.add(new Employee("Employee4", 5000000, "QA", 25));
+        employees.add(new Employee("Employee5", 5000000, "JANITOR", 25));
+        employees.add(new Employee("Employee6", 5000000, "SALES", 25));
+        employees.add(new Employee("Employee7", 5000000, "ADMIN", 25));
+
+        return employees;
+    }
+
     public void practice(){
         List<Employee> employees = new ArrayList<>();
 
