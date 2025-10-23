@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 /*
     Find all even numbers from a list
  */
-public class problem1 {
+public class problem01 {
     public static void approach(){
 
         List<Integer> list = Arrays.asList(1, 2, 3, 4, 5);
