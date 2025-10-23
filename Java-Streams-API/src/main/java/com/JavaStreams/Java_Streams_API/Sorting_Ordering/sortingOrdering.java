@@ -1,6 +1,7 @@
 package com.JavaStreams.Java_Streams_API.Sorting_Ordering;
 
 import com.JavaStreams.Java_Streams_API.Filtering_Matching.*;
+import com.JavaStreams.Java_Streams_API.Utils.Employee;
 import com.JavaStreams.Java_Streams_API.Utils.Input;
 
 import java.util.Arrays;

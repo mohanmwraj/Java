@@ -1,6 +1,6 @@
 package com.JavaStreams.Java_Streams_API.Reducing_Aggregation;
 
-import com.JavaStreams.Java_Streams_API.Filtering_Matching.Employee;
+import com.JavaStreams.Java_Streams_API.Utils.Employee;
 import com.JavaStreams.Java_Streams_API.Utils.Input;
 
 import java.util.Comparator;

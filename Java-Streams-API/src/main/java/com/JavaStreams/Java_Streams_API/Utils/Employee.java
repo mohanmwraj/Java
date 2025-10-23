@@ -1,4 +1,4 @@
-package com.JavaStreams.Java_Streams_API.Filtering_Matching;
+package com.JavaStreams.Java_Streams_API.Utils;
 
 
 import lombok.AllArgsConstructor;

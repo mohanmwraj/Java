@@ -1,7 +1,5 @@
 package com.JavaStreams.Java_Streams_API.Utils;
 
-import com.JavaStreams.Java_Streams_API.Filtering_Matching.Employee;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -52,5 +50,24 @@ public class Input {
         numbers.add(11);
 
         return numbers;
+    }
+
+    public static List<Student> getStudents(){
+        List<Student> students = new ArrayList<>();
+
+        students.add(new Student("Student1", 59));
+        students.add(new Student("Student2", 59));
+        students.add(new Student("Student3", 59));
+        students.add(new Student("Student4", 59));
+        students.add(new Student("Student5", 59));
+        students.add(new Student("Student6", 59));
+        students.add(new Student("Student7", 59));
+        students.add(new Student("Student8", 59));
+        students.add(new Student("Student9", 59));
+        students.add(new Student("Student10", 59));
+        students.add(new Student("Student11", 59));
+
+
+        return students;
     }
 }
