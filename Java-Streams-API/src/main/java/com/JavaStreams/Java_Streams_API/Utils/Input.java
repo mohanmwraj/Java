@@ -8,12 +8,12 @@ public class Input {
         List<Employee> employees = new ArrayList<>();
 
         employees.add(new Employee("Employee1", 5000000, "IT", 25));
-        employees.add(new Employee("Employee2", 5000000, "HR", 25));
+        employees.add(new Employee("Employee2", 12342, "HR", 25));
         employees.add(new Employee("Employee3", 5000000, "DEV", 25));
-        employees.add(new Employee("Employee4", 5000000, "QA", 25));
-        employees.add(new Employee("Employee5", 5000000, "JANITOR", 25));
-        employees.add(new Employee("Employee6", 5000000, "SALES", 25));
-        employees.add(new Employee("Employee7", 5000000, "ADMIN", 25));
+        employees.add(new Employee("Employee4", 12334213, "QA", 25));
+        employees.add(new Employee("Employee5", 3345, "JANITOR", 25));
+        employees.add(new Employee("Employee6", 12121, "SALES", 25));
+        employees.add(new Employee("Employee7", 2312321, "ADMIN", 25));
 
         return employees;
     }
